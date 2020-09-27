@@ -653,12 +653,12 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #d4d3d3!important;
 }
 
-.container {
-/* max-width: 1000px; */
-}
+/* .container {
+/* max-width: 1000px; 
+} */
 
 .hero-bloc-text {
     font-size: 38px;
@@ -784,16 +784,18 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #1d1d1d!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #1d1d1d!important;
+
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #1d1d1d!important;
+
 }
 
 .ltc-white:hover {
