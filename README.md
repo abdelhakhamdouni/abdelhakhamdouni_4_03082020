@@ -11,3 +11,7 @@ lien vers le site de comparaison des deux versions des sites initiale et retouch
 
 https://gtmetrix.com/compare/PJUnUM9l/WWB93Erx
 
+liens vers le silde de google pour la comparaison
+
+https://docs.google.com/presentation/d/1R7m3kZNWJD_HTPxIsI3WZ6rq7RaIEGX6GwvtgnvMl-k/edit?usp=sharing
+
