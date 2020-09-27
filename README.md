@@ -9,5 +9,5 @@ https://docs.google.com/presentation/d/1NBr2qaNv1lCZz3Ve9bBQVIgut-Vqm9WKrpsWuT46
 
 lien vers le site de comparaison des deux versions des sites initiale et retouché
 
-https://gtmetrix.com/compare/sPm1A9uF/CTfELrbo
+https://gtmetrix.com/compare/PJUnUM9l/WWB93Erx
 
