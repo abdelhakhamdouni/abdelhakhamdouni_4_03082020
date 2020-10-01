@@ -7,7 +7,7 @@ https://abdelhakhamdouni.github.io/abdelhakhamdouni_4_03082020/P4_02_code_source
 
 Lien vers le site initial
 
-https://abdelhakhamdouni.github.io/abdelhakhamdouni_4_03082020/
+https://abdelhakhamdouni.github.io/abdelhakhamdouni_4_03082020/siteinitial
 
 lien vers la page de Google slide
 
