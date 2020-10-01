@@ -2,7 +2,10 @@
 projet 4 de openclassroom, optimiser un site web pour SEO
 
 liens vers le site Optimisé et retouché:
+
 https://abdelhakhamdouni.github.io/abdelhakhamdouni_4_03082020/P4_02_code_source
+
+Lien vers le site initial
 
 https://abdelhakhamdouni.github.io/abdelhakhamdouni_4_03082020/
 
