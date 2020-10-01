@@ -14,8 +14,23 @@
 	<link rel="stylesheet" type="text/css" href="./css/et-line.css">
 	<link rel="stylesheet" href="style.css">
 
-	<!-- Title  -->
-	<title>la chouette agence | page de contact</title>
+	<!-- open graph meta -->
+
+	<meta property="og:url" content="https://abdelhakhamdouni.github.io/abdelhakhamdouni_4_03082020/P4_02_code_source/index.html" />
+	<meta property="og:type" content="site web agence" />
+	<meta property="og:title" content="la chouette agence, Parlons web design" />
+	<meta property="og:description" content="La chouette agence est une agence de web design qui aide les entreprises à devenir attractives et visibles sur internet" />
+	<meta property="og:image" content="img/la-chouette-agence-banner.jpg" />
+
+	<!--  partage sur twitter -->
+
+	<meta property="twitter:url" content="https://abdelhakhamdouni.github.io/abdelhakhamdouni_4_03082020/P4_02_code_source/index.html" />
+	<meta property="twitter:card" content="site web agence" />
+	<meta property="twitter:title" content="la chouette agence, agence de webdesign située a Lyon" />
+	<meta property="twitter:description" content="La chouette agence est une agence de web design qui aide les entreprises à devenir attractives et visibles sur internet" />
+	<meta property="twitter:image" content="img/la-chouette-agence-banner.jpg"/>
+
+	<title>la chouette agence | Parlons web design</title>
 
 
 	<!-- Analytics -->
@@ -25,12 +40,11 @@
 </head>
 
 <body>
-	<!-- Principal conteneur -->
-	<main class="page-container">
+
 
 		<!-- bloc-0 -->
-		<div class="bloc bgc-white l-bloc " id="bloc-0">
-			<div class="container bloc-sm">
+		<section class="bloc bgc-white l-bloc " id="bloc-0">
+			<header class="container bloc-sm">
 
 				<nav class="navbar row">
 					<div class="navbar-header">
@@ -50,19 +64,18 @@
 							<li>
 							</li>
 							<li>
-								<a href="contact.html" title="page de contact">contact <span
-										class="fa fa-arrow-right"></span></a>
+								<a href="contact.html" title="page de contact">contact</a>
 							</li>
 						</ul>
 					</div>
 				</nav>
-			</div>
-		</div>
+			</header>
+		</section>
 		<!-- bloc-0 END -->
 
 		<!-- bloc-6 -->
-		<div class="bloc bg-dots-bg bg-repeat bgc-atomic-tangerine d-bloc bloc-bg-texture texture-paper" id="bloc-6">
-			<article class="container bloc-lg">
+		<section class="bloc bg-dots-bg bg-repeat bgc-atomic-tangerine d-bloc bloc-bg-texture texture-paper" id="bloc-6">
+			<header class="container bloc-lg">
 				<div class="row">
 					<div class="col-sm-12">
 						<h1 class="text-center hero-bloc-text tc-white">
@@ -74,15 +87,19 @@
 						</p>
 					</div>
 				</div>
-			</article>
-		</div>
+			</header>
+		</section>
 		<!-- bloc-6 END -->
 
-		<!-- bloc-7 -->
-		<div class="bloc bgc-white l-bloc" id="bloc-7">
+			<!-- Principal conteneur -->
+	<main class="page-container">
+
+		<!-- bloc-formulaire -->
+		<section class="bloc bgc-white l-bloc" id="bloc-7">
+			<h2 class="text-center hero-bloc-text bloc-sm">Formulaire de contact</h2>
 			<div class="container bloc-lg">
 				<div class="row">
-					<div class="col-sm-6">
+					<article class="col-sm-6">
 						<form id="form_1" novalidate>
 							<div class="form-group">
 								<label>
@@ -113,18 +130,20 @@
 								Envoyer
 							</button>
 						</form>
-					</div>
-					<div class="col-sm-6">
+					</article>
+					<article class="col-sm-6">
 						<p>
 							contact@lachouetteagence.com<br>2 place Sathonay 69001 Lyon<br>Ouvert de 9h à 18h, du lundi
 							au vendredi<br>
 						</p>
-					</div>
+					</article>
 				</div>
 			</div>
-		</div>
-		<!-- bloc-7 END -->
+		</section>
+		<!-- bloc-formulaire END -->
 
+	</main>
+	<!-- Principal conteneur END -->
 		<!-- ScrollToTop Button -->
 		<a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1')"><span
 				class="fa fa-chevron-up"></span></a>
@@ -132,12 +151,12 @@
 
 
 		<!-- Footer - bloc-8 -->
-		<div class="bloc bgc-atomic-tangerine d-bloc" id="bloc-8">
+		<footer class="bloc bgc-atomic-tangerine d-bloc" id="bloc-8">
 			<div class="container bloc-sm">
 				<div class="row">
-					<div class="col-sm-12">
+					<article class="col-sm-12">
 						<p class="text-center white">
-							La chouette agence - Agence web basée à Lyon.<br>
+							La chouette agence - Agence web et webdesign basée à Lyon.<br>
 						</p>
 						<div class="row row-no-gutters social">
 							<div class="col-sm-3">
@@ -166,13 +185,10 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</article>
 			</div>
-		</div>
+		</footer>
 		<!-- Footer - bloc-8 END -->
-
-	</main>
-	<!-- Principal conteneur END -->
 
 	<!-- scriptes js -->
 

@@ -92,7 +92,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    /* background: url("img/texture-paper.png"); */
+     background: url("img/texture-paper.png"); 
     background-size: 280px 280px;
 }
 
@@ -288,7 +288,9 @@ a:hover {
     font-size: 4em;
     color: white !important;
 }
-
+#bloc-1-hero h2{
+    color:  white !important;
+}
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -757,7 +759,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(39, 38, 36, 0.9);
+    background-color: rgba(39, 38, 36, 0.692);
     padding: 40px 40px 40px 40px;
 }
 
@@ -784,7 +786,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #1d1d1d!important;
+    /*color: #1d1d1d!important;*/
 }
 
 .btn-atomic-tangerine:hover {
@@ -1107,4 +1109,17 @@ h4 {
 a.text-white{
     color: white !important;
     background-color: #ca6b48 !important;
+}
+
+.z-over{
+    z-index: 5;
+    font-size: 3em;
+    position: relative;
+}
+
+@media (max-width: 990px){
+    .z-over{
+        font-size: 1.8em;
+        margin: 0 25px;
+    }
 }
