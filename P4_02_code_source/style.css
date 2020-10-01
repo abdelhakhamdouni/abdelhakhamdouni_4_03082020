@@ -1108,6 +1108,7 @@ h4 {
 
 a.text-white{
     color: white !important;
+<<<<<<< HEAD
     background-color: #ca6b48 !important;
 }
 
@@ -1123,3 +1124,7 @@ a.text-white{
         margin: 0 25px;
     }
 }
+=======
+    /*background-color: #ca6b48 !important;*/
+}
+>>>>>>> 46ec239c6ac3dbb526b51e74c9c58b568001351a
