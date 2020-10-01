@@ -15,7 +15,7 @@ https://docs.google.com/presentation/d/1NBr2qaNv1lCZz3Ve9bBQVIgut-Vqm9WKrpsWuT46
 
 lien vers le site de comparaison des deux versions des sites initiale et retouché
 
-https://gtmetrix.com/compare/PJUnUM9l/WWB93Erx
+https://gtmetrix.com/compare/yuXPsbVa/l7X27LkX
 
 liens vers le silde de google pour la comparaison
 
